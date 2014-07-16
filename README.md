@@ -1,2 +1,0 @@
-waynecraig.github.io
-====================
